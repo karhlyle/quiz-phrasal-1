@@ -1,7 +1,16 @@
-.Q1 {font-weight:bold;
-color:blue;}
+* {color: #054281;
+font-weight:bold; 
+font-family:Georgia, 'Times New Roman', Times, serif;}
 
-main {background-color: linear-gradient(cyan, magenta);}
+.bg {
+    background-color: #696969 ;}
+
+a:visited  {color:#D82D19;} 
+
+
+
+a:visited.corr {color:#3D9016}
+
 
 .num {font-weight:bold;
 font-size:larger;}
@@ -10,5 +19,4 @@ li {text-align: left;
     align-items: left;}
 ul {text-align: left;
 align-items: left;}
-
 
